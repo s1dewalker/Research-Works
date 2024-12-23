@@ -6,6 +6,6 @@ Inspired by many specialized ETFs. This project offers optimization and modeling
 #
 
 ![](screenshots/FTS3.jpg)
-### [Surviving A Zero-Sum Game](https://github.com/s1dewalker/Futures-trading)
-Futures Trading System For Fixed Income Derivatives. A glimpse of the system that was used @ Futures First. This system utilized data analytics, quantitative analysis, and account management. It involved keeping an eagle eye on fixed income products w/ live Excel dashboards. Being prepared for a range of outcomes w/ risk scenario analysis. Changing the game w/ performance analysis, metrics, and stats. Applied ML and probability models to identify and predict market states, optimizing portfolio and risk assessment. Providing defense to account management w/ a resilient capital allocation system.
+### [View Futures Trading System For Fixed Income Derivatives](https://github.com/s1dewalker/Futures-trading)
+A glimpse of the system that was used @ Futures First. This system utilized data analytics, quantitative analysis, and account management. It involved keeping an eagle eye on fixed income products w/ live Excel dashboards. Being prepared for a range of outcomes w/ risk scenario analysis. Changing the game w/ performance analysis, metrics, and stats. Applied ML and probability models to identify and predict market states, optimizing portfolio and risk assessment. Providing defense to account management w/ a resilient capital allocation system.
 #
