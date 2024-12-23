@@ -12,4 +12,4 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 
 
 *hope you find it insightful, and encourage you to forward any suggestions for improvements* <br/>
-##### [LinkedIn](https://www.linkedin.com/in/sujay-bhaumik-d12/) | s1dewalker23@gmail.com 
+##### [LinkedIn](https://www.linkedin.com/in/sujay-bhaumik-d12/) | s1dewalker23@gmail.com | [GitHub](https://github.com/s1dewalker)
