@@ -11,6 +11,7 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 #
 
 ![](screenshots/nyc_airbnb.jpg)
+### [Explore NYC Airbnb listings](https://github.com/s1dewalker/Airbnb-listings-NYC)
 Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 #
 
