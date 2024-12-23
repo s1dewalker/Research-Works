@@ -10,6 +10,6 @@ Inspired by many specialized ETFs. This project offers optimization and modeling
 A glimpse of the system that was used @ Futures First. This system utilized data analytics, quantitative analysis, and account management. It involved keeping an eagle eye on fixed income products w/ live Excel dashboards. Being prepared for a range of outcomes w/ risk scenario analysis. Changing the game w/ performance analysis, metrics, and stats. Applied ML and probability models to identify and predict market states, optimizing portfolio and risk assessment. Providing defense to account management w/ a resilient capital allocation system.
 #
 
-
+<br/>
 *hope you find it insightful, and encourage you to forward any suggestions for improvements* <br/>
 ##### [LinkedIn](https://www.linkedin.com/in/sujay-bhaumik-d12/) | s1dewalker23@gmail.com | [GitHub](https://github.com/s1dewalker)
