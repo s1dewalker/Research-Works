@@ -18,7 +18,7 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 
 ![](screenshots/ab.png)
 ### [Alpha-Beta-Explorer](https://github.com/s1dewalker/Alpha-Beta-Explorer)
-Exploring various metrics driving a portfolio, analyzing market sensitivities. This includes calculating Treasury Beta using multiple linear regression. The Rolling Sigmas (and Betas) calculates the 1 year rolling volatility and beta for 10 sectors of NYSE listed stocks, and more... <br/>
+Exploring various metrics driving a portfolio, analyzing market sensitivities. This includes calculating Treasury Beta using multiple linear regression. "The Rolling Sigmas (and Betas)" calculates the 1 year rolling volatility and beta for 10 sectors of NYSE listed stocks, and more... <br/>
 
 ###### Portfolio Management | Equity Investments | Financial Research | Machine Learning
 
