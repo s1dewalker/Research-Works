@@ -15,6 +15,10 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 #
 
+![](screenshots/ab.png)
+### [Alpha Beta Explorer](https://github.com/s1dewalker/Alpha-Beta-Explorer)
+Exploring various metrics driving a portfolio, analyzing market sensitivities.
+
 <br/>
 
 *hope you find it insightful, and encourage you to forward any suggestions for improvements* <br/>
