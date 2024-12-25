@@ -11,7 +11,7 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 #
 
 ![](screenshots/ab.png)
-### [Alpha Beta Explorer](https://github.com/s1dewalker/Alpha-Beta-Explorer)
+### [Alpha-Beta-Explorer](https://github.com/s1dewalker/Alpha-Beta-Explorer)
 Exploring various metrics driving a portfolio, analyzing market sensitivities.
 #
 
