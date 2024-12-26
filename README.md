@@ -1,7 +1,7 @@
 # Research Works
 
 ![](screenshots/PRA.png)
-### [View Portfolio Optimization and Risk Analysis](https://github.com/s1dewalker/Portfolio_Analysis)
+### [View Portfolio Optimization and Risk Analysis for Equity Investments](https://github.com/s1dewalker/Portfolio_Analysis)
 Inspired by many specialized ETFs. This project offers optimization and modeling tools for investment strategies. Leveraging Efficient Frontier modeling, Fama French factor models, Monte Carlo simulation, and 15 risk metrics (Sharpe ratio, VaR) w/ python libraries like pandas, yfinance, and PyPortfolioOpt. <br/>
 
 ###### Portfolio Management | Risk Management | Quantitative Analysis | Models | Optimization
