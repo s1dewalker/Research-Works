@@ -44,6 +44,9 @@ Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 ###### Autocorrelation | Random Walk | Stationarity
 <br/>
 
+#### [Bond Valuation and Analysis in Python](https://github.com/s1dewalker/Bond-evaluating-bond/blob/main/Bond_valuation.ipynb)
+###### Time Value | Duration | Convexity
+<br/>
 
 <br/>
 <br/><br/>
