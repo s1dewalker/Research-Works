@@ -33,20 +33,6 @@ Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 
 #
 
-### More Applied Research Works
-<br/>
-
-#### [Model Validation and Tuning in Python](https://github.com/s1dewalker/Model_Validation) 
-###### Bias-Variance trade-off check | Cross Validation | Tuning
-<br/>
-
-#### [Simple Time Series Analysis of S&P500 in Python](https://github.com/s1dewalker/Time-series/blob/main/Time_series_analysis2.ipynb)
-###### Autocorrelation | Random Walk | Stationarity
-<br/>
-
-#### [Bond Valuation and Analysis in Python](https://github.com/s1dewalker/Bond-evaluating-bond/blob/main/Bond_valuation.ipynb)
-###### Time Value | Duration | Convexity
-<br/>
 
 <br/>
 <br/><br/>
