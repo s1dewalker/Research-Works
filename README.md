@@ -32,9 +32,11 @@ Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 ###### Exploratory Data Analysis | Data Cleaning | Data Analytics
 
 #
-
-
 <br/>
+
+### For more, visit [Applied Research Central](https://github.com/s1dewalker/Applied-Research-Central)
+
+
 <br/><br/>
 
 *hope you find it insightful, and encourage you to forward any suggestions for improvements* <br/>
