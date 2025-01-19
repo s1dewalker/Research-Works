@@ -47,5 +47,5 @@ Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 
 <br/><br/>
 
-*hope you find it insightful, and encourage you to forward any suggestions for improvements* <br/>
+
 ##### [LinkedIn](https://www.linkedin.com/in/sujay-bhaumik-d12/) | s1dewalker23@gmail.com | [GitHub](https://github.com/s1dewalker)
