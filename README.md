@@ -18,7 +18,7 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 
 <img src="screenshots/MODEL VALIDATION.png" alt="Description" width="1000">
 
-### [Model Validation and Tuning](https://github.com/s1dewalker/Model_Validation)
+### [Model Validation + Tuning](https://github.com/s1dewalker/Model_Validation)
 Checking Assumptions of OLS regression for  Fama French 3-Factor Model. Steps involved in Model validation and Hyperparameter tuning in Random Forest Regression.
 
 ###### Model Management | Model Validation | Machine Learning | Assumptions
