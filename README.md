@@ -16,6 +16,14 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 
 #
 
+<img src="screenshots/MODEL VALIDATION.png" alt="Description" width="1000">
+
+### [Model Validation and Tuning](https://github.com/s1dewalker/Model_Validation)
+Checking Assumptions of OLS regression for  Fama French 3-Factor Model. Steps involved in Model validation and Hyperparameter tuning in Random Forest Regression.
+
+###### Model Management | Model Validation | Machine Learning | Assumptions
+#
+
 ![](screenshots/ab.png)
 ### [Alpha-Beta-Explorer](https://github.com/s1dewalker/Alpha-Beta-Explorer)
 Exploring various metrics driving a portfolio, analyzing market sensitivities. This includes calculating Treasury Beta using multiple linear regression. "The Rolling Sigmas (and Betas)" calculates the 1 year rolling volatility and beta for 10 sectors of NYSE listed stocks, and more... <br/>
