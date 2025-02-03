@@ -33,7 +33,7 @@ Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 
 #
 
-### More 
+### More Projects
 
 ### [Cointegration for Pairs Trading](https://github.com/s1dewalker/Cointegration)
 ###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
