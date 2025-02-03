@@ -32,6 +32,22 @@ Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 ###### Exploratory Data Analysis | Data Cleaning | Data Analytics
 
 #
+
+### More 
+
+### [Cointegration for Pairs Trading](https://github.com/s1dewalker/Cointegration)
+###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
+<br/>
+
+### [Markov Model for Stock](https://github.com/s1dewalker/Markov-Model-for-Stocks)
+###### K-means clustering | Market states | Markov Model | Transition matrix | Factor Analysis
+<br/>
+
+### [Simple Time Series Analysis in Python](https://github.com/s1dewalker/Time-series/blob/main/Time_series_analysis2.ipynb)
+###### Autocorrelation | Random Walk | Stationarity
+<br/>
+
+
 <br/>
 
 ### For more, visit [Applied Research Central](https://github.com/s1dewalker/Applied-Research-Central)
