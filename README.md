@@ -22,6 +22,15 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 Checking Assumptions of OLS regression for  Fama French 3-Factor Model. Steps involved in Model validation and Hyperparameter tuning in Random Forest Regression.
 
 ###### Model Management | Model Validation | Machine Learning | Assumptions
+
+#
+
+<img src="screenshots/MODEL VALIDATION.png" alt="Description" width="1000">
+
+### [Fama French 3 Factor Analysis of NYSE stocks: Model Validation + Tuning](https://github.com/s1dewalker/Model_Validation)
+Checking Assumptions of OLS regression for  Fama French 3-Factor Model. Steps involved in Model validation and Hyperparameter tuning in Random Forest Regression.
+
+###### Model Management | Model Validation | Machine Learning | Assumptions
 #
 
 ![](screenshots/nyc_airbnb.jpg)
