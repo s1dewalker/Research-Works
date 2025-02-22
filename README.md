@@ -16,12 +16,11 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 
 #
 
-<img src="screenshots/MODEL VALIDATION.png" alt="Description" width="1000">
+<img src="screenshots/pairs.jpg" alt="Description" width="1000">
 
-### [Fama French 3 Factor Analysis of NYSE stocks: Model Validation + Tuning](https://github.com/s1dewalker/Model_Validation)
-Checking Assumptions of OLS regression for  Fama French 3-Factor Model. Steps involved in Model validation and Hyperparameter tuning in Random Forest Regression.
-
-###### Model Management | Model Validation | Machine Learning | Assumptions
+### [Cointegration for pairs trading](https://github.com/s1dewalker/Cointegration)
+In this project we try to check linear relationship between Nike (NKE) and Adidas (ADDY). Then we regress one time series on the other to get the cointegration vector, and perform ADF test on the residuals to check for stationarity. If stationary, it means the stocks are cointegrated, and the residuals represent a mean-reverting spread. Now we can use the residuals of this relationship to generate signals for mean reversion.
+###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
 
 #
 
@@ -43,10 +42,6 @@ Exploratory Data Analysis (EDA) w/ SQL, Tableau, Python
 #
 
 ### Complementary mentions
-<br/>
-
-### [Cointegration for Pairs Trading](https://github.com/s1dewalker/Cointegration)
-###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
 <br/>
 
 ### [Markov Model for Stocks](https://github.com/s1dewalker/Markov-Model-for-Stocks)
