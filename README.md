@@ -19,7 +19,7 @@ A glimpse of the system that was used @ Futures First. This system utilized data
 <img src="screenshots/pairs.jpg" alt="Description" width="1000">
 
 ### [Cointegration for pairs trading](https://github.com/s1dewalker/Cointegration)
-In this project we try to check linear relationship between Nike (NKE) and Adidas (ADDY). Then we regress one time series on the other to get the cointegration vector, and perform ADF test on the residuals to check for stationarity. If stationary, it means the stocks are cointegrated, and the residuals represent a mean-reverting spread. Now we can use the residuals of this relationship to generate signals for mean reversion.
+Pairs Watch web app is a quantitative finance tool that helps users analyze potential pairs trading opportunities. In this project we try to check linear relationship between Nike (NKE) and Adidas (ADDY). Then we regress one time series on the other to get the cointegration vector, and perform ADF test on the residuals to check for stationarity. If stationary, it means the stocks are cointegrated, and the residuals represent a mean-reverting spread. Now we can use the residuals of this relationship to generate signals for mean reversion.
 ###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
 
 #
