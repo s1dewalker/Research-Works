@@ -6,21 +6,24 @@ Inspired by many specialized ETFs. This project offers optimization and modeling
 
 ###### Portfolio Management | Risk Management | Quantitative Analysis | Models | Optimization
 
+
+
 #
+
+<img src="screenshots/pairs.jpg" alt="Description" width="1000">
+
+### [Pairs Watch](https://github.com/s1dewalker/Cointegration)
+Quant research app for monitoring trading pairs with risk metrics and alerts. Features include pair ratio tracking, rolling volatility, cointegration residuals, and technical analysis signal generation. Recently added seasonality analysis with statistical insights.
+###### Pairs Trading | Mean-reversion | Seasonality | Time Series Analysis | Cointegration
+
+#
+
 
 ![](screenshots/FTS3.jpg)
 ### [Futures Trading System For Fixed Income Derivatives](https://github.com/s1dewalker/Futures-trading)
 A glimpse of the system that was used @ Futures First. This system utilized data analytics, quantitative analysis, and account management. It involved keeping an eagle eye on fixed income products w/ live Excel dashboards. Being prepared for a range of outcomes w/ risk scenario analysis. Changing the game w/ performance analysis, financial metrics, and stats. Applied ML and probability models to identify and predict market states, optimizing portfolio and risk assessment. Providing defense to account management w/ a resilient capital allocation system. <br/>
 
 ###### Data Analytics | Risk Management | Fixed Income (Interest rate, bond) | Futures Trading System | Markov Model
-
-#
-
-<img src="screenshots/pairs.jpg" alt="Description" width="1000">
-
-### [Cointegration for pairs trading](https://github.com/s1dewalker/Cointegration)
-Pairs Watch web app is a quantitative finance tool that helps users analyze potential pairs trading opportunities. In this project we try to check linear relationship between Nike (NKE) and Adidas (ADDY). Then we regress one time series on the other to get the cointegration vector, and perform ADF test on the residuals to check for stationarity. If stationary, it means the stocks are cointegrated, and the residuals represent a mean-reverting spread. Now we can use the residuals of this relationship to generate signals for mean reversion.
-###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
 
 #
 
